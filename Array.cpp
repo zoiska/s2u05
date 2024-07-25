@@ -6,8 +6,6 @@ void print_Array(std::array<std::string, 3> arr) {
         std::cout << arr[i];
         if (i < 2) {
             std::cout << ", ";
-        } else {
-            std::cout << "";
         }
     }
     std::cout << std::endl;
