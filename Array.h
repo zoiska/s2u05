@@ -1,7 +1,3 @@
-//
-// Created by zoisk on 17.05.2024.
-//
-
 #ifndef ARRAY_H
 #define ARRAY_H
 
